@@ -1,0 +1,17 @@
+0 <-- center height
+
+
+VFX_Y:
++1
+0.5 (top of potion)
+0 (default - middle)
+-0.5 (bottom of potion)
+-1
+
+Shader_Y:
+0 <-- liquid empty (default)
+0.5 <-- liquid half full
+1 <-- liquid full 
+
+
+VFX_Y = Shader_Y - 0.5;
