@@ -1,4 +1,4 @@
-# Unity-URP-Shaders
+# Sting's Unity-URP-Shaders
 A sample collection featuring a compilation of my URP shaders made within Unity. Most of these were done for my CS320 Graphics Programming course at Kettering University.
 
 One of the shaders, called "Scorebubble", was made by me from the ground up!
